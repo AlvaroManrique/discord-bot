@@ -45,8 +45,8 @@ Follow these steps to run the bot locally on your machine:
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
-cd TU_REPOSITORIO
+git clone https://github.com/AlvaroManrique/discord-bot.git
+cd discord-bot
 
 ```
 
